@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer base {
+  :root {
+    /* Modern Blue-themed palette */
+    --background: 222 47% 98%;
+    --foreground: 222 47% 11%;
+    
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+    
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+    
+    --primary: 222 47% 35%;
+    --primary-foreground: 210 40% 98%;
+    
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222 47% 35%;
+    
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    
+    --accent: 240 60% 60%;
+    --accent-foreground: 210 40% 98%;
+    
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222 47% 35%;
+    
+    --radius: 0.75rem;
+    
+    /* Additional semantic colors */
+    --success: 142 76% 36%;
+    --success-foreground: 210 40% 98%;
+    
+    --warning: 38 92% 50%;
+    --warning-foreground: 210 40% 98%;
+    
+    --error: 0 84.2% 60.2%;
+    --error-foreground: 210 40% 98%;
+    
+    --info: 217 91% 60%;
+    --info-foreground: 210 40% 98%;
+  }
+
+  .dark {
+    --background: 222 47% 9%;
+    --foreground: 213 31% 91%;
+    
+    --card: 222 47% 11%;
+    --card-foreground: 213 31% 91%;
+    
+    --popover: 222 47% 11%;
+    --popover-foreground: 213 31% 91%;
+    
+    --primary: 222 47% 65%;
+    --primary-foreground: 222 47% 11%;
+    
+    --secondary: 217 32% 17%;
+    --secondary-foreground: 210 40% 98%;
+    
+    --muted: 217 32% 17%;
+    --muted-foreground: 215 20.2% 65.1%;
+    
+    --accent: 240 60% 60%;
+    --accent-foreground: 210 40% 98%;
+    
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    
+    --border: 217 32% 17%;
+    --input: 217 32% 17%;
+    --ring: 224 71.4% 70%;
+    
+    /* Additional semantic colors */
+    --success: 142 69% 36%;
+    --success-foreground: 210 40% 98%;
+    
+    --warning: 38 92% 50%;
+    --warning-foreground: 210 40% 98%;
+    
+    --error: 0 62.8% 50.6%;
+    --error-foreground: 210 40% 98%;
+    
+    --info: 217 91% 60%;
+    --info-foreground: 210 40% 98%;
+  }
+}
