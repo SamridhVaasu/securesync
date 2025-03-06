@@ -193,7 +193,7 @@ Our post-hackathon development roadmap includes:
   <table>
     <tr>
       <td align="center" width="25%">
-        <a href="[ARYAN RAI](https://www.linkedin.com/in/aryanbuilds/)" target="_blank">
+        <a href="https://www.linkedin.com/in/aryanbuilds/" target="_blank">
           <img src="public/assets/team/team-lead.png" width="120" alt="Team Lead">
           <br />
           <strong>Aryan Rai</strong>
@@ -202,7 +202,7 @@ Our post-hackathon development roadmap includes:
         Team Lead
       </td>
       <td align="center" width="25%">
-        <a href="[SAMRIDH SINGH](https://www.linkedin.com/in/samridhvaasu/)" target="_blank">
+        <a href="https://www.linkedin.com/in/samridhvaasu/" target="_blank">
           <img src="public/assets/team/security-lead.png" width="120" alt="Technology Lead">
           <br />
           <strong>Samridh Singh</strong>
@@ -211,7 +211,7 @@ Our post-hackathon development roadmap includes:
         Technology Lead
       </td>
       <td align="center" width="25%">
-        <a href="[MUKUND DIXIT](https://www.linkedin.com/in/mukund-dixit-83b712290/)" target="_blank">
+        <a href="https://www.linkedin.com/in/mukund-dixit-83b712290/" target="_blank">
           <img src="public/assets/team/ai-lead.png" width="120" alt="AI Lead">
           <br />
           <strong>Mukund Dixit</strong>
@@ -220,7 +220,7 @@ Our post-hackathon development roadmap includes:
         AI/ML Lead
       </td>
       <td align="center" width="25%">
-        <a href="[RUDRANSH MISHRA](https://www.linkedin.com/in/rudransh-mishra-187463291/)" target="_blank">
+        <a href="https://www.linkedin.com/in/rudransh-mishra-187463291/" target="_blank">
           <img src="public/assets/team/cybersecurity-lead.png" width="120" alt="CyberSecurity Lead">
           <br />
           <strong>Rudransh Mishra</strong>
@@ -231,6 +231,7 @@ Our post-hackathon development roadmap includes:
     </tr>
   </table>
 </div>
+
 
 
 ---
