@@ -109,6 +109,35 @@ Our end-to-end security pipeline integrates with existing DevOps workflows:
 7. **Deployment Guards**: Final security checkpoint with rollback capabilities
 8. **Runtime Monitoring**: Continuous security assessment in production
 
+## Project Flow
+
+SecureSync follows a structured and efficient workflow to ensure seamless security integration:
+
+<div align="center">
+  <img src="public/assets/securesync_flow.jpg" width="700">
+</div>
+
+1. **Repository Integration**  
+   - Developers connect their repositories (GitHub, GitLab, Bitbucket).  
+   - Automated monitoring of code commits for security analysis.  
+
+2. **Vulnerability Detection & Analysis**  
+   - Hybrid security scanning (SAST + DAST + AI-powered detection).  
+   - Identification of security hotspots and synchronization flaws.  
+
+3. **Security Pipeline Configuration**  
+   - Developers use the Visual Pipeline Builder to customize security workflows.  
+   - Pre-configured templates for quick adoption of best practices.  
+
+4. **Remediation & Fixes**  
+   - AI-driven suggestions for resolving detected vulnerabilities.  
+   - Auto-generated security patches for common security flaws.  
+
+5. **Continuous Monitoring & Reporting**  
+   - Real-time security status dashboard for visibility.  
+   - Historical trend analysis for proactive security management.  
+
+
 ## Technology Stack
 
 <div align="center">
