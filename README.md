@@ -194,28 +194,28 @@ Our post-hackathon development roadmap includes:
     <tr>
       <td align="center" width="25%">
         <img src="public/assets/team/team-lead.png" width="120" alt="Team Lead">
-        <br />
+        <br href="https://www.linkedin.com/in/aryanbuilds/"/>
         <strong>Aryan Rai</strong>
         <br />
         Team Lead
       </td>
       <td align="center" width="25%">
         <img src="public/assets/team/security-lead.png" width="120" alt="Technology Lead">
-        <br />
+        <br href="https://www.linkedin.com/in/samridhvaasu/"/>
         <strong>Samridh Singh</strong>
         <br />
         Technology Lead
       </td>
       <td align="center" width="25%">
         <img src="public/assets/team/ai-lead.png" width="120" alt="AI Lead">
-        <br />
+        <br href="https://www.linkedin.com/in/mukund-dixit-83b712290/"/>
         <strong>Mukund Dixit</strong>
         <br />
         AI/ML Lead
       </td>
       <td align="center" width="25%">
         <img src="public/assets/team/cybersecurity-lead.png" width="120" alt="CyberSecurity Lead">
-        <br />
+        <br href="https://www.linkedin.com/in/rudransh-mishra-187463291/"/>
         <strong>Rudransh Mishra</strong>
         <br />
         Cybersecurity Lead
