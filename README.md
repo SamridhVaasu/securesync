@@ -155,7 +155,6 @@ For the Hacker's Playground Hackathon, our team delivered:
 1. **Functional Prototype**: A working implementation of the SecureSync platform with all core components
 2. **Vulnerability Detection**: Live demonstration of detecting synchronization flaws in sample applications
 3. **Pipeline Creation**: Demonstration of visual security workflow creation and execution
-4. **Integration Showcase**: Integration with GitHub Actions and OWASP ZAP for end-to-end security scanning
 
 Our implementation was recognized with the **1st Runner-Up** position among 50+ competing teams, with particular praise for the innovative approach to synchronization vulnerability detection and the intuitive visual pipeline builder.
 
