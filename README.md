@@ -148,22 +148,6 @@ Our end-to-end security pipeline integrates with existing DevOps workflows:
   </table>
 </div>
 
-## Quantifiable Business Impact
-
-SecureSync delivers measurable security improvements across key performance indicators:
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%"><b>75%</b><br>Reduction in time-to-remediate</td>
-      <td align="center" width="20%"><b>60%</b><br>Fewer false positives</td>
-      <td align="center" width="20%"><b>3x</b><br>Development velocity</td>
-      <td align="center" width="20%"><b>40%</b><br>Lower security operation costs</td>
-      <td align="center" width="20%"><b>85%</b><br>Risk mitigation</td>
-    </tr>
-  </table>
-</div>
-
 ## Hackathon Implementation & Results
 
 For the Hacker's Playground Hackathon, our team delivered:
@@ -173,7 +157,7 @@ For the Hacker's Playground Hackathon, our team delivered:
 3. **Pipeline Creation**: Demonstration of visual security workflow creation and execution
 4. **Integration Showcase**: Integration with GitHub Actions and OWASP ZAP for end-to-end security scanning
 
-Our implementation was recognized with the **1st Runner-Up** position among 120+ competing teams, with particular praise for the innovative approach to synchronization vulnerability detection and the intuitive visual pipeline builder.
+Our implementation was recognized with the **1st Runner-Up** position among 50+ competing teams, with particular praise for the innovative approach to synchronization vulnerability detection and the intuitive visual pipeline builder.
 
 ## Getting Started
 
