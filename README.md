@@ -209,28 +209,28 @@ Our post-hackathon development roadmap includes:
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
-        <img src="public/assets/team/team-lead.png" width="120" alt="CTO">
+      <td align="center" width="40%">
+        <img src="public/assets/team/team-lead.png" width="120" alt="Team Lead">
         <br />
         <strong>Aryan Rai</strong>
         <br />
         Team Lead
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="40%">
         <img src="public/assets/team/security-lead.png" width="120" alt="Technology Lead">
         <br />
         <strong>Samridh Singh</strong>
         <br />
         Technology Lead
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="40%">
         <img src="public/assets/team/ai-lead.png" width="120" alt="AI Lead">
         <br />
         <strong>Mukund Dixit</strong>
         <br />
         AI/ML Lead
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="40%">
         <img src="public/assets/team/cybersecurity-lead.png" width="120" alt="CyberSecurity Lead">
         <br />
         <strong>Rudransh Mishra</strong>
