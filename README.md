@@ -179,7 +179,7 @@ Our implementation was recognized with the **1st Runner-Up** position among 120+
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/securesync.git
+git clone https://github.com/SamridhVaasu/securesync.git
 cd securesync
 
 # Install dependencies
@@ -210,42 +210,36 @@ Our post-hackathon development roadmap includes:
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="public/assets/team/cto.png" width="120" alt="CTO">
+        <img src="public/assets/team/team-lead.png" width="120" alt="CTO">
         <br />
-        <strong>Jane Smith</strong>
+        <strong>Aryan Rai</strong>
         <br />
-        Chief Architect
+        Team Lead
       </td>
       <td align="center" width="25%">
-        <img src="public/assets/team/security-lead.png" width="120" alt="Security Lead">
+        <img src="public/assets/team/security-lead.png" width="120" alt="Technology Lead">
         <br />
-        <strong>Michael Chen</strong>
+        <strong>Samridh Singh</strong>
         <br />
-        Security Engineer
+        Technology Lead
       </td>
       <td align="center" width="25%">
         <img src="public/assets/team/ai-lead.png" width="120" alt="AI Lead">
         <br />
-        <strong>Sarah Johnson</strong>
+        <strong>Mukund Dixit</strong>
         <br />
-        AI/ML Developer
+        AI/ML Lead
       </td>
       <td align="center" width="25%">
-        <img src="public/assets/team/ui-lead.png" width="120" alt="UI Lead">
+        <img src="public/assets/team/cybersecurity-lead.png" width="120" alt="CyberSecurity Lead">
         <br />
-        <strong>David Rodriguez</strong>
+        <strong>Rudransh Mishra</strong>
         <br />
-        UI/UX Designer
+        Cybersecurity Lead
       </td>
     </tr>
   </table>
 </div>
-
-## Acknowledgments
-
-- The Tech Nexus Community and GDG MIET for organizing the Hacker's Playground Hackathon
-- Our mentors who provided invaluable guidance throughout the competition
-- The open-source security community whose tools and frameworks inspired our approach
 
 ---
 
