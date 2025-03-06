@@ -9,7 +9,7 @@
     <a href="https://github.com/yourusername/securesync/issues"><img src="https://img.shields.io/github/issues/yourusername/securesync" alt="Issues"></a>
   </p>
   <p>
-    <img src="public/assets/award-badge.jpg" alt="1st Runner-Up" width="200">
+    <img src="public/assets/award-badge.jpeg" alt="1st Runner-Up" width="200">
     <h3>🏆 1st Runner-Up | Hacker's Playground Hackathon 2025</h3>
     <p>Organized by Tech Nexus Community & GDG MIET</p>
   </p>
