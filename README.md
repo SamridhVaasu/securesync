@@ -156,7 +156,7 @@ For the Hacker's Playground Hackathon, our team delivered:
 2. **Vulnerability Detection**: Live demonstration of detecting synchronization flaws in sample applications
 3. **Pipeline Creation**: Demonstration of visual security workflow creation and execution
 
-Our implementation was recognized with the **1st Runner-Up** position among 50+ competing teams, with particular praise for the innovative approach to synchronization vulnerability detection and the intuitive visual pipeline builder.
+Our implementation was recognized with the **1st Runner-Up** position among 55+ competing teams, with particular praise for the innovative approach to synchronization vulnerability detection and the intuitive visual pipeline builder.
 
 ## Getting Started
 
